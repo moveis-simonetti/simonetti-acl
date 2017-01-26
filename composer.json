@@ -1,7 +1,7 @@
 {
-  "name": "triallo/simonetti-acl",
+  "name": "simonetti/acl",
   "description": "Access Control List da Moveis Simonetti",
-  "license": "Private License",
+  "license": "MIT",
   "keywords": [
     "RabbitMQ",
     "Memcached",
